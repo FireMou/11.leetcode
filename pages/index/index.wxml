@@ -1,0 +1,8 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+  <van-cell-group title="数组">
+    <van-cell title="0001-两数之和" clickable bind:click="twoSum" />
+    <van-cell title="0026-删除有序数组中的重复项" clickable bind:click="removeDuplicates" />
+    <van-cell title="0027-移除元素" clickable bind:click="removeElement" />
+  </van-cell-group>
+</view>

@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/array/two-sum/index",
+    "pages/array/remove-duplicates/index",
+    "pages/array/remove-element/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "LeetCode",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {
+    "wemark": "/components/wemark/wemark",
+    "van-cell": "/components/vant/weapp/cell/index",
+    "van-cell-group": "/components/vant/weapp/cell-group/index"
+  }
+}

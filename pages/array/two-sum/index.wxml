@@ -1,0 +1,4 @@
+<!--pages/two-sum/index.wxml-->
+<view class="container">
+  <wemark md="{{md}}" link highlight type="wemark"></wemark>
+</view>

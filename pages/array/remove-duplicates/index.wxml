@@ -1,0 +1,6 @@
+<!--pages/remove-duplicates/index.wxml-->
+<view class="container">
+  <!-- <wemark md="{{md}}" link highlight type="wemark"></wemark> -->
+  <view class="title">删除有序数组中的重复项</view>
+  <image class="pic" src="http://web-learn-coder.oss-cn-beijing.aliyuncs.com//note/uPic/0026-删除有序数组中的重复项.png" mode="aspectFit" />
+</view>
