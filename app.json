@@ -3,7 +3,9 @@
     "pages/index/index",
     "pages/array/two-sum/index",
     "pages/array/remove-duplicates/index",
-    "pages/array/remove-element/index"
+    "pages/array/remove-element/index",
+    "pages/array/search-insert/index",
+    "pages/array/max-sub-array/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

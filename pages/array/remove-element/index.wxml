@@ -1,4 +1,5 @@
-<!--pages/remove-element/index.wxml--><view class="container">
+<!--pages/remove-element/index.wxml-->
+<view class="container">
   <!-- <wemark md="{{md}}" link highlight type="wemark"></wemark> -->
   <view class="title">移除元素</view>
   <image class="pic" src="http://web-learn-coder.oss-cn-beijing.aliyuncs.com//note/uPic/0027-移除元素.png" mode="aspectFit" />

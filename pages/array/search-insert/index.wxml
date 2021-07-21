@@ -1,0 +1,6 @@
+<!--pages/array/search-insert/index.wxml-->
+<view class="container">
+  <!-- <wemark md="{{md}}" link highlight type="wemark"></wemark> -->
+  <view class="title">搜索插入位置</view>
+  <image class="pic" src="http://web-learn-coder.oss-cn-beijing.aliyuncs.com//note/uPic/0035-搜索插入位置.png" mode="aspectFit" />
+</view>

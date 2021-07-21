@@ -29,5 +29,16 @@ Page({
     wx.navigateTo({
       url: '../array/remove-element/index'
     });
+  },
+  searchInsert: function() {
+    wx.navigateTo({
+      url: '../array/search-insert/index'
+    });
+
+  },
+  maxSubArray: function() {
+    wx.navigateTo({
+      url: '../array/max-sub-array/index'
+    });
   }
 })
