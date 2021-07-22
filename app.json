@@ -5,7 +5,8 @@
     "pages/array/remove-duplicates/index",
     "pages/array/remove-element/index",
     "pages/array/search-insert/index",
-    "pages/array/max-sub-array/index"
+    "pages/array/max-sub-array/index",
+    "pages/array/plus-one/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

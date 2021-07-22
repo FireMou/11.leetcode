@@ -6,5 +6,6 @@
     <van-cell title="0027-移除元素" clickable bind:click="removeElement" />
     <van-cell title="0035-搜索插入位置" clickable bind:click="searchInsert" />
     <van-cell title="0053-最大子序和" clickable bind:click="maxSubArray" />
+    <van-cell title="0066-加一" clickable bind:click="plusOne" />
   </van-cell-group>
 </view>

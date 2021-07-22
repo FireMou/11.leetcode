@@ -40,5 +40,10 @@ Page({
     wx.navigateTo({
       url: '../array/max-sub-array/index'
     });
+  },
+  plusOne: function() {
+    wx.navigateTo({
+      url: '../array/plus-one/index'
+    });
   }
 })
